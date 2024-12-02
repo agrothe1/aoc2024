@@ -1,4 +1,4 @@
-fun main() {
+fun main(){
     fun part1(input: List<String>) =
         Regex("\\s+").let{sep->
             input
